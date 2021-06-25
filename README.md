@@ -10,7 +10,7 @@ Spunky is a modern 2D/3D game development framework/engine written in C++.
 # Libraries
 * [SDL](https://github.com/libsdl-org/SDL)
 * [BGFX](https://github.com/bkaradzic/bgfx)
-* [MojoAL](https://www.icculus.org/mojoAL/)
+* [MojoAL](https://github.com/spurious/mojoAL-mirror)
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
 
 # License
