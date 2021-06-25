@@ -8,7 +8,7 @@ Spunky is a modern 2D/3D game development framework/engine written in C++.
 * Networking supporting NAT Traversal
 
 # Libraries
-* [SDL](https://www.libsdl.org/)
+* [SDL](https://github.com/libsdl-org/SDL)
 * [BGFX](https://github.com/bkaradzic/bgfx)
 * [MojoAL](https://www.icculus.org/mojoAL/)
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
